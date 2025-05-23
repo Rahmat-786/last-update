@@ -1,0 +1,11 @@
+Disease,Symptoms,Treatment,Upchar,
+Typhoid,"Fever, headache, weakness, stomach pain","Antibiotics, fluid intake, rest","Aram karein, paani zyada piyein, doctor ki dawa lein",
+Jaundice,"Yellowing of skin and eyes, fatigue, nausea","Treat liver cause, proper diet, avoid alcohol","Haldi wala doodh, halka khana, liver test jaruri hai",
+Cancer,"Unusual lumps, weight loss, fatigue","Chemotherapy, surgery, radiation","Ayurvedic upchar ke sath allopathy treatment lein, time par test karwayein",
+Flu,"Fever, cough, sore throat, body ache","Antiviral drugs, rest, hydration","Garam paani piyein, aram karein, kada lein",
+Malaria,"Fever with chills, sweating, vomiting",Antimalarial,medication,"Machhar se bachein, mosquito net ka use karein"
+Dengue,"High fever, rash, joint pain, low platelets","Fluid therapy, rest, paracetamol","Papaya leaf juice, coconut water, aram bahut zaruri hai",
+Diabetes,"Increased thirst, frequent urination, fatigue","Insulin, dietary control, exercise","Mithi cheezen kam karein, roz walk karein, doctor ki salah lein",
+Asthma,"Shortness of breath, wheezing, coughing","Inhalers, bronchodilators, avoid triggers","Dhool mitti se bachein, yoga karein, inhaler use karein",
+Tuberculosis,(TB),"Cough (more than 3 weeks), weight loss, night sweats","Antibiotics for 6+ months, isolation","TB ka ilaaj pura course karein, test karwayein"
+Covid-19,"Fever, cough, breathlessness, fatigue","Isolation, oxygen therapy, antiviral drugs","Mask pehnein, social distancing, vaccination zaruri",
